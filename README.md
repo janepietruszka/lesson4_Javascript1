@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 12, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Jane Pietruszka)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(I put together one of those websites that calculates percentages for you!)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+( https://janepietruszka.github.io/lesson4_Javascript1/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Learned how to use github.)
+2. (Learned how to use Javascript. )
+3. (Learned how to make a website that calculates percentages.)
 
